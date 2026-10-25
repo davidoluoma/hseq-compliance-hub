@@ -1,0 +1,13 @@
+DocNumber,Title,DocType,Department,Version,Status,ReviewDue
+DOC-001,Emergency Response Procedure,Procedure,HSE,1.0,Draft,2027-04-09
+DOC-002,Permit to Work Procedure,Procedure,Operations,1.0,Approved,2027-04-30
+DOC-003,Incident Reporting Form,Form,HSE,4.0,Approved,2027-02-23
+DOC-004,Contractor Induction Checklist,Form,Procurement,3.0,Draft,2026-11-21
+DOC-005,Planned Maintenance Standard,Standard,Technical,1.0,In Review,2026-11-21
+DOC-006,Crew Training Policy,Policy,Crewing,4.0,In Review,2027-02-06
+DOC-007,Vendor Approval Procedure,Procedure,Procurement,2.0,Approved,2027-04-23
+DOC-008,Cash Request Form,Form,Finance,3.0,In Review,2026-11-01
+DOC-009,Management of Change Procedure,Procedure,Operations,3.0,Draft,2027-01-11
+DOC-010,Internal Audit Procedure,Procedure,HSE,2.0,Draft,2027-01-11
+DOC-011,Data Confidentiality Policy,Policy,Technical,2.0,In Review,2026-10-22
+DOC-012,Waste Management Standard,Standard,HSE,3.0,Draft,2026-11-08

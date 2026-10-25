@@ -1,0 +1,124 @@
+ActionID,Title,Source,Location,Department,RiskLevel,Owner,DateRaised,DueDate,Status,DateClosed,RootCause
+CA-001,Replenish first aid cabinet,Inspection,Vessel Alpha,Procurement,Low,Master,2026-08-24,2026-10-14,Closed,2026-09-04,Poor documentation
+CA-002,Replace damaged lifeboat davit cover,Inspection,Vessel Bravo,Technical,Medium,Master,2026-09-04,2026-10-14,Closed,2026-10-21,Equipment wear
+CA-003,Improve housekeeping in engine room,Observation,Vessel Alpha,Procurement,High,Crewing Manager,2026-08-01,2026-08-18,Closed,2026-09-10,Unclear responsibility
+CA-004,Fix poor lighting at stairwell,Observation,Vessel Charlie,Procurement,Medium,Finance Lead,2026-06-16,2026-07-23,Closed,2026-07-27,Poor documentation
+CA-005,Replenish first aid cabinet,Inspection,Vessel Delta,Finance,High,Master,2026-06-08,2026-06-23, closed ,2026-07-20,Procedure not followed
+CA-006,Update emergency response procedure,Audit,Vessel Delta,Technical,Low,Procurement Lead,2026-06-10,2026-07-30,Open,,Unclear responsibility
+CA-007,Revise contractor induction checklist,Audit,Vessel Delta,Finance,Medium,Chief Engineer,2026-09-18,2026-10-16,Closed,2026-09-23,Procedure not followed
+CA-008,Investigate near miss at mooring,Incident,Vessel Charlie,Finance,Medium,Finance Lead,2026-06-13,2026-07-22,Closed,2026-06-24,Training gap
+CA-009,Label chemical storage correctly,Observation,Shore Base PH,HSE,Medium,Chief Engineer,2026-07-31,2026-09-07,Closed,2026-08-05,Unclear responsibility
+CA-010,Clarify cargo hose test records,SIRE,Vessel Alpha,Operations,Medium,Finance Lead,2026-06-05,2026-07-15,OPEN,,Equipment wear
+CA-011,Update emergency response procedure,Audit,Vessel Delta,Finance,Low,HSEQ Manager,2026-07-08,2026-08-20,Closed,2026-07-13,Training gap
+CA-012,Rectify SIRE observation on bridge log entries,SIRE,Vessel Alpha,HSE,High,Operations Manager,2026-09-13,2026-10-04,In Progress,,Poor documentation
+CA-013,Replenish first aid cabinet,Inspection,Shore Base PH,Operations,Low,Chief Engineer,2026-07-10,2026-09-03,Closed,2026-08-06,Unclear responsibility
+CA-014,Revise contractor induction checklist,Audit,Vessel Bravo,Operations,Low,Chief Engineer,2026-09-02,2026-10-25,Closed,2026-09-14,Equipment wear
+CA-015,Review slip incident on gangway,Incident,Shore Base PH,Procurement,Medium,Chief Engineer,2026-07-12,2026-08-11,Open,,Procedure not followed
+CA-016,Close gaps in permit-to-work records,audit,Vessel Alpha,Finance,Low,Master,2026-06-28,2026-08-10,Closed,2026-08-16,Equipment wear
+CA-017,Label chemical storage correctly,Observation,Vessel Charlie,Technical,Low,Operations Manager,2026-06-08,2026-07-27,Closed,2026-07-07,Procedure not followed
+CA-018,Add signage at restricted area,Observation,Shore Base PH,Procurement,Low,Technical Superintendent,2026-06-02,2026-07-20,Closed,2026-07-08,Training gap
+CA-019,Update PPE issue register,Incident,Vessel Alpha,Operations,Medium,Finance Lead,2026-09-06,2026-10-07,In Progress,,Procedure not followed
+CA-020,Close gaps in permit-to-work records,Audit,Shore Base PH,Operations,Medium,Finance Lead,2026-08-17,2026-09-15,Closed,2026-09-03,Unclear responsibility
+CA-021,Update emergency response procedure,Audit,Vessel Alpha,Finance,Medium,Chief Engineer,2026-08-17,2026-09-25,Closed,2026-09-07,Procedure not followed
+CA-022,Close gaps in permit-to-work records,Audit,Vessel Delta,Procurement,High,Chief Engineer,2026-09-04,2026-09-24,Open,,Training gap
+CA-023,Revise contractor induction checklist,Sire ,Vessel Charlie,Finance,Low,Crewing Manager,2026-08-01,2026-09-24,Open,,Procedure not followed
+CA-024,Update planned maintenance records,SIRE,Vessel Alpha,Operations,Low,Operations Manager,2026-08-23,2026-10-17,Closed,2026-09-12,Unclear responsibility
+CA-025,Update PPE issue register,Incident,Vessel Alpha,Crewing,High,Technical Superintendent,2026-06-18,2026-06-29,Closed,2026-07-30,Training gap
+CA-026,Repair deck handrail corrosion,Inspection,Vessel Alpha,Operations,High,Chief Engineer,2026-08-29,2026-09-20,Closed,2026-09-14,Unclear responsibility
+CA-027,Replace damaged lifeboat davit cover,Inspection,Vessel Charlie,Procurement,Medium,Operations Manager,2026-08-12,2026-09-18,Open,,Unclear responsibility
+CA-028,Clarify cargo hose test records,SIRE,Vessel Delta,Finance,Low,Operations Manager,2026-09-20,2026-11-13,Closed,2026-10-19,Training gap
+CA-029,Replenish first aid cabinet,Inspection,Vessel Charlie,Crewing,Low,Chief Engineer,2026-08-27,2026-10-19,Open,,Poor documentation
+CA-030,Fix poor lighting at stairwell,Observation,Vessel Delta,Finance,High,Procurement Lead,2026-08-04,2026-08-19,Closed,2026-09-17,Unclear responsibility
+CA-031,Investigate near miss at mooring,Incident,Vessel Delta,hse,Medium,HSEQ Manager,2026-09-20,2026-10-30,Closed,2026-09-24,Procedure not followed
+CA-032,Retrain crew on lifting operations,Incident,Shore Base PH,HSE,Medium,Procurement Lead,2026-06-21,2026-07-23,Open,,Poor documentation
+CA-033,Add signage at restricted area,Observation,Vessel Delta,Technical,Medium,Master,2026-06-11,2026-07-19,Open,,Unclear responsibility
+CA-034,Improve housekeeping in engine room,Observation,Vessel Charlie,Crewing,High,Crewing Manager,2026-06-14,2026-07-07,Closed,2026-07-03,Poor documentation
+CA-035,Label chemical storage correctly,Observation,Vessel Bravo,Technical,Medium,Procurement Lead,2026-07-21,2026-08-17,Closed,2026-08-03,Unclear responsibility
+CA-036,Correct outdated fire drill schedule,Audit,Vessel Charlie,Operations,Low,Finance Lead,2026-09-24,2026-11-12,Open,,Poor documentation
+CA-037,Investigate near miss at mooring,Incident,Vessel Charlie,Procurement,High,Crewing Manager,2026-07-07,2026-07-23,Closed,2026-08-10,Poor documentation
+CA-038,Investigate near miss at mooring,Incident,Vessel Delta,Finance,Medium,Crewing Manager,2026-09-26,2026-10-28,Open,,Equipment wear
+CA-039,Calibrate gas detection unit,Inspection,Vessel Bravo,Technical,Low,Technical Superintendent,2026-08-16,2026-10-07,Closed,2026-08-24,Training gap
+CA-040,Correct outdated fire drill schedule,Audit,Vessel Delta,Procurement,Medium,Master,2026-08-31,2026-10-01,Open,,Unclear responsibility
+CA-041,Correct outdated fire drill schedule,Audit,Vessel Charlie,Technical,Low,,2026-07-19,2026-08-30,Open,,Poor documentation
+CA-042,Fix chart correction log gaps,SIRE,Shore Base PH,HSE,Low,,2026-08-18,2026-09-30,Closed,2026-09-10,Unclear responsibility
+CA-043,Revise contractor induction checklist,Audit,Vessel Charlie,Operations,Low,Technical Superintendent,2026-07-05,2026-08-26,Closed,2026-07-24,Training gap
+CA-044,Fix chart correction log gaps,SIRE,Vessel Delta,Finance,Low,HSEQ Manager,2026-09-22,2026-11-07,In Progress,,Unclear responsibility
+CA-045,Review slip incident on gangway,Incident,Vessel Alpha,Procurement,High,Finance Lead,2026-06-14,2026-07-07,Closed,2026-06-20,Equipment wear
+CA-046,Update planned maintenance records,SIRE,Shore Base PH,Finance,Low,Operations Manager,2026-08-30,2026-10-17,Closed,2026-09-28,Poor documentation
+CA-047,Retrain crew on lifting operations,Incident,Vessel Alpha,HSE,Low,Chief Engineer,2026-07-31,2026-09-24,Closed,2026-09-09,Procedure not followed
+CA-048,Investigate near miss at mooring,Incident,Vessel Alpha,Technical,Low,Master,2026-09-25,2026-11-16,In Progress,,Procedure not followed
+CA-049,Label chemical storage correctly,Observation,Shore Base PH,Technical,Medium,Crewing Manager,2026-07-09,2026-08-12,Open,,Equipment wear
+CA-050,Revise contractor induction checklist,Audit,Shore Base PH,HSE,Medium,HSEQ Manager,2026-08-25,2026-09-22,Open,,Poor documentation
+CA-051,Update PPE issue register,Incident,Shore Base PH,Operations,Low,Master,2026-06-24,2026-08-17,Open,,Poor documentation
+CA-052,Add signage at restricted area,Observation,Vessel Delta,Crewing,Medium,Crewing Manager,2026-07-16,2026-08-12,Closed,2026-08-08,Equipment wear
+CA-053,Calibrate gas detection unit,Inspection,Vessel Bravo,Procurement,Low,HSEQ Manager,2026-09-07,2026-10-23,In Progress,,Equipment wear
+CA-054,Replenish first aid cabinet,Inspection,Shore Base PH,Procurement,Medium,Master,2026-06-07,2026-07-13,Closed,2026-07-03,Equipment wear
+CA-055,Fix poor lighting at stairwell,Observation,Shore Base PH,HSE,Medium,Master,2026-06-19,2026-07-25,Closed,2026-07-31,Training gap
+CA-056,Label chemical storage correctly,Observation,Vessel Bravo,Operations,Medium,,2026-09-17,2026-10-20,In Progress,,Poor documentation
+CA-057,Fix chart correction log gaps,SIRE,Shore Base PH,HSE,Medium,HSEQ Manager,2026-09-02,2026-10-04,Closed,2026-09-30,Procedure not followed
+CA-058,Rectify SIRE observation on bridge log entries,SIRE,Shore Base PH,Operations,Medium,Chief Engineer,2026-07-07,2026-08-06,Closed,2026-08-12,Poor documentation
+CA-059,Investigate near miss at mooring,Incident,Vessel Bravo,Crewing,Low,Procurement Lead,2026-06-29,2026-08-22,Closed,2026-07-13,Procedure not followed
+CA-060,Add signage at restricted area,Observation,Vessel Alpha,Crewing,High,Crewing Manager,2026-07-14,2026-08-04,Closed,2026-08-31,Unclear responsibility
+CA-061,Improve housekeeping in engine room,Observation,Shore Base PH,Procurement,Low,HSEQ Manager,2026-09-07,2026-10-23,Closed,2026-09-02,Unclear responsibility
+CA-062,Calibrate gas detection unit,Inspection,Vessel Alpha,Operations,High,Chief Engineer,2026-08-02,2026-08-18,Closed,2026-07-28,Equipment wear
+CA-063,Revise contractor induction checklist,Audit,Shore Base PH,Procurement,Medium,HSEQ Manager,2026-06-28,2026-07-25,Closed,2026-07-25,Poor documentation
+CA-064,Fix chart correction log gaps,SIRE,Vessel Charlie,Crewing,Medium,Master,2026-09-22,2026-10-27,Open,,Equipment wear
+CA-065,Clarify cargo hose test records,SIRE,Shore Base PH,HSE,Low,Operations Manager,2026-08-08,2026-09-28,Open,,Equipment wear
+CA-066,Revise contractor induction checklist,Audit,Vessel Charlie,Finance,Low,Finance Lead,2026-06-16,2026-07-31,In Progress,,Equipment wear
+CA-067,Label chemical storage correctly,Observation,Shore Base PH,Crewing,Medium,HSEQ Manager,2026-09-23,2026-10-22,Closed,2026-10-06,Unclear responsibility
+CA-068,Fix poor lighting at stairwell,Observation,Vessel Bravo,Procurement,Medium,Finance Lead,2026-08-28,2026-10-06,Closed,2026-09-08,Training gap
+CA-069,Review slip incident on gangway,Incident,Vessel Delta,Procurement,High,Technical Superintendent,2026-08-19,2026-09-09,Closed,2026-09-10,Equipment wear
+CA-070,Calibrate gas detection unit,Inspection,Vessel Bravo,Finance,Low,Operations Manager,2026-07-28,2026-09-14,Closed,2026-08-09,Procedure not followed
+CA-071,Rectify SIRE observation on bridge log entries,SIRE,Vessel Alpha,Finance,Medium,Finance Lead,2026-09-11,,Closed,2026-10-06,Unclear responsibility
+CA-072,Repair deck handrail corrosion,Inspection,Vessel Charlie,Technical,Medium,Procurement Lead,2026-07-11,2026-08-14,In Progress,,Training gap
+CA-073,Correct outdated fire drill schedule,Audit,Vessel Charlie,Crewing,Medium,Procurement Lead,2026-09-10,2026-10-13,Closed,2026-09-29,Poor documentation
+CA-074,Fix chart correction log gaps,SIRE,Vessel Bravo,Finance,Low,Technical Superintendent,2026-09-17,2026-11-11,Closed,2026-10-14,Training gap
+CA-075,Update planned maintenance records,SIRE,Vessel Delta,Operations,Medium,Chief Engineer,2026-09-04,2026-10-05,Closed,2026-10-04,Poor documentation
+CA-076,Add signage at restricted area,Observation,Vessel Charlie,Procurement,Medium,Crewing Manager,2026-06-01,2026-07-04,In Progress,,Training gap
+CA-077,Retrain crew on lifting operations,Incident,Vessel Bravo,Operations,Low,Operations Manager,2026-06-05,2026-07-23,Open,,Poor documentation
+CA-078,Revise contractor induction checklist,Audit,Vessel Delta,Finance,High,HSEQ Manager,2026-07-16,2026-08-05,Closed,2026-08-06,Poor documentation
+CA-079,Retrain crew on lifting operations,Incident,Vessel Alpha,HSE,Low,Finance Lead,2026-07-12,2026-08-31,Closed,2026-08-23,Unclear responsibility
+CA-080,Revise contractor induction checklist,Audit,Vessel Bravo,Crewing,Medium,Chief Engineer,2026-07-29,2026-09-02,Open,,Equipment wear
+CA-081,Fix chart correction log gaps,SIRE,Vessel Alpha,Procurement,Medium,Chief Engineer,2026-09-04,2026-10-06,Closed,2026-09-19,Poor documentation
+CA-082,Add signage at restricted area,Observation,Shore Base PH,Technical,High,HSEQ Manager,2026-09-03,2026-09-14,In Progress,,Unclear responsibility
+CA-083,Calibrate gas detection unit,Inspection,Shore Base PH,Procurement,High,HSEQ Manager,2026-08-13,2026-08-29,Open,,Unclear responsibility
+CA-084,Add signage at restricted area,Observation,Vessel Bravo,Finance,Low,Operations Manager,2026-06-13,2026-08-04,Closed,2026-07-24,Procedure not followed
+CA-085,Replace damaged lifeboat davit cover,Inspection,Vessel Charlie,Procurement,Medium,Finance Lead,2026-06-27,2026-08-05,Closed,2026-08-12,Procedure not followed
+CA-086,Repair deck handrail corrosion,Inspection,Vessel Charlie,Procurement,Low,Operations Manager,2026-06-04,2026-07-18,Closed,2026-07-24,Procedure not followed
+CA-087,Calibrate gas detection unit,Inspection,Shore Base PH,Procurement,High,Procurement Lead,2026-07-12,2026-07-30,Closed,2026-07-23,Unclear responsibility
+CA-088,Update PPE issue register,Incident,Vessel Delta,Technical,Medium,Chief Engineer,2026-07-08,2026-08-04,Closed,2026-07-30,Training gap
+CA-089,Update planned maintenance records,SIRE,Vessel Delta,Procurement,Medium,Technical Superintendent,2026-07-04,2026-08-07,Closed,2026-08-21,Equipment wear
+CA-090,Repair deck handrail corrosion,Inspection,Vessel Alpha,Finance,Medium,Finance Lead,2026-09-19,2026-10-28,In Progress,,Unclear responsibility
+CA-091,Review slip incident on gangway,Incident,Shore Base PH,Procurement,Medium,Technical Superintendent,2026-08-11,2026-09-09,Open,,Equipment wear
+CA-092,Improve housekeeping in engine room,Observation,Vessel Bravo,Crewing,High,Technical Superintendent,2026-06-03,2026-06-26,Closed,2026-06-07,Training gap
+CA-093,Add signage at restricted area,Observation,Vessel Alpha,Crewing,Low,Procurement Lead,2026-07-07,2026-08-24,Closed,2026-08-16,Equipment wear
+CA-094,Add signage at restricted area,Observation,Vessel Delta,Technical,Low,Technical Superintendent,2026-07-05,2026-08-23,Open,,Equipment wear
+CA-095,Clarify cargo hose test records,SIRE,Vessel Charlie,Finance,Medium,Finance Lead,2026-08-05,2026-09-14,In Progress,,Equipment wear
+CA-096,Update planned maintenance records,SIRE,Shore Base PH,Operations,Medium,Chief Engineer,2026-08-22,2026-09-26,Open,,Unclear responsibility
+CA-097,Label chemical storage correctly,Observation,Vessel Charlie,Finance,Low,Crewing Manager,2026-09-14,2026-11-02,Closed,2026-09-17,Poor documentation
+CA-098,Improve housekeeping in engine room,Observation,Vessel Bravo,Technical,Low,Procurement Lead,2026-07-29,2026-09-12,In Progress,,Procedure not followed
+CA-099,Calibrate gas detection unit,Inspection,Vessel Delta,HSE,Medium,Chief Engineer,2026-07-22,2026-08-20,Closed,2026-08-17,Unclear responsibility
+CA-100,Repair deck handrail corrosion,Inspection,Vessel Bravo,Finance,Medium,Master,2026-09-09,2026-10-17,In Progress,,Unclear responsibility
+CA-101,Investigate near miss at mooring,Incident,Vessel Charlie,Finance,Low,Operations Manager,2026-08-03,2026-09-22,Closed,2026-09-01,Unclear responsibility
+CA-102,Add signage at restricted area,Observation,Vessel Bravo,Procurement,Low,HSEQ Manager,2026-06-27,2026-08-12,Open,,Unclear responsibility
+CA-103,Calibrate gas detection unit,Inspection,Vessel Charlie,Finance,Low,HSEQ Manager,2026-08-07,2026-09-23,Closed,2026-09-23,Training gap
+CA-104,Update PPE issue register,Incident,Vessel Bravo,Technical,Medium,Master,2026-08-31,2026-10-04,Open,,Unclear responsibility
+CA-105,Update PPE issue register,Incident,Vessel Bravo,Technical,High,Crewing Manager,2026-07-15,2026-08-05,Closed,2026-08-21,Poor documentation
+CA-106,Update emergency response procedure,Audit,Vessel Delta,Technical,Low,Master,2026-07-28,2026-09-15,Closed,2026-08-20,Equipment wear
+CA-107,Revise contractor induction checklist,Audit,Vessel Delta,Operations,Low,Chief Engineer,2026-07-30,2026-09-20,Closed,2026-09-16,Equipment wear
+CA-108,Review slip incident on gangway,Incident,Vessel Bravo,Operations,High,Master,2026-09-15,2026-09-29,Open,,Unclear responsibility
+CA-109,Update emergency response procedure,Audit,Vessel Delta,Operations,High,Crewing Manager,2026-09-14,2026-10-04,Open,,Training gap
+CA-110,Rectify SIRE observation on bridge log entries,SIRE,Shore Base PH,HSE,Medium,Finance Lead,2026-07-04,2026-08-10,Open,,Training gap
+CA-111,Correct outdated fire drill schedule,Audit,Vessel Delta,Procurement,Medium,Finance Lead,2026-08-18,2026-09-26,Closed,2026-09-17,Poor documentation
+CA-112,Retrain crew on lifting operations,Incident,Vessel Charlie,HSE,Medium,Operations Manager,2026-06-20,2026-07-30,Closed,2026-07-28,Procedure not followed
+CA-113,Fix poor lighting at stairwell,Observation,Vessel Bravo,HSE,High,Finance Lead,2026-09-10,2026-09-25,Closed,2026-10-21,Procedure not followed
+CA-114,Update emergency response procedure,Audit,Vessel Charlie,Crewing,Medium,Technical Superintendent,2026-09-09,2026-10-10,In Progress,,Equipment wear
+CA-115,Correct outdated fire drill schedule,Audit,Vessel Delta,Operations,Medium,Master,2026-09-02,2026-09-29,Open,,Procedure not followed
+CA-116,Label chemical storage correctly,Observation,Vessel Delta,Finance,High,Finance Lead,2026-07-07,2026-07-23,Closed,2026-07-19,Equipment wear
+CA-117,Correct outdated fire drill schedule,Audit,Shore Base PH,Crewing,Medium,HSEQ Manager,2026-08-21,2026-09-19,Closed,2026-10-05,Procedure not followed
+CA-118,Update emergency response procedure,Audit,Vessel Delta,Operations,High,Finance Lead,2026-09-12,2026-09-24,Closed,2026-10-02,Unclear responsibility
+CA-119,Add signage at restricted area,Observation,Vessel Alpha,Operations,High,Operations Manager,2026-09-08,2026-09-29,Closed,2026-09-29,Unclear responsibility
+CA-120,Fix poor lighting at stairwell,Observation,Shore Base PH,Procurement,Medium,Procurement Lead,2026-09-25,2026-10-27,Closed,2026-09-30,Procedure not followed
+CA-013,Replenish first aid cabinet,Inspection,Shore Base PH,Operations,Low,Chief Engineer,2026-07-10,2026-09-03,Closed,2026-08-06,Unclear responsibility
+CA-034,Improve housekeeping in engine room,Observation,Vessel Charlie,Crewing,High,Crewing Manager,2026-06-14,2026-07-07,Closed,2026-07-03,Poor documentation
+CA-078,Revise contractor induction checklist,Audit,Vessel Delta,Finance,High,HSEQ Manager,2026-07-16,2026-08-05,Closed,2026-08-06,Poor documentation
